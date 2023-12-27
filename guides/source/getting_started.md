@@ -455,7 +455,7 @@ Now we can interact with the table using our model.
 ### Using a Model to Interact with the Database
 
 To play with our model a bit, we're going to use a feature of Rails called the
-*console*. The console is an interactive coding environment just like `irb`, but
+*console*. The console is an interactive coding environment just like `irb` ([interactive Ruby](https://github.com/ruby/irb)), but
 it also automatically loads Rails and our application code.
 
 Let's launch the console with this command:
